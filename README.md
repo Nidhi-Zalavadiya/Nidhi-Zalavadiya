@@ -11,4 +11,4 @@ I am a BCA graduate with a focus on building robust applications and solving dat
 - **Workflow Automation:** Developed custom desktop tools to bridge data between Excel and ERP systems.
 - **Backend API Development:** Experience building scalable web services during my internships.
 
-[LinkedIn](https://www.linkedin.com/in/nidhizavalaiya) | [Portfolio]
+
