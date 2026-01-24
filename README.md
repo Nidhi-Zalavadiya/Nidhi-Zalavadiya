@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Nidhi-Zalavadiya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Nidhi Zalavadiya! 👋
 
-<!---
-Nidhi-Zalavadiya/Nidhi-Zalavadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🐍 Python Developer
+I am a BCA graduate with a focus on building robust applications and solving data-driven challenges. My background includes internships in web development and hands-on experience in automating business workflows.
+
+- **💻 Tech Stack:** Python (Django, FastAPI), Pandas, GUI Development.
+- **📊 Real-World Impact:** I specialize in taking manual, time-consuming processes and turning them into efficient Python systems.
+- **🎓 Education:** Bachelor of Computer Applications (BCA).
+
+### 🛠️ Featured Work
+- **Workflow Automation:** Developed custom desktop tools to bridge data between Excel and ERP systems.
+- **Backend API Development:** Experience building scalable web services during my internships.
+
+[LinkedIn](https://www.linkedin.com/in/nidhizavalaiya) | [Portfolio]
