@@ -64,15 +64,16 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 
 <div align="center">
 
-<!-- GitHub Stats + Streak side by side -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nidhi-Zalavadiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi-Zalavadiya&theme=tokyonight&hide_border=true"/>
+<!-- Streak Stats - demolab.com is GitHub CSP approved -->
+<img src="https://streak-stats.demolab.com/?user=Nidhi-Zalavadiya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-Zalavadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=c,c%2B%2B,cython"/>
+<!-- Stats as shields badges - always work -->
+<img src="https://img.shields.io/badge/Total%20Commits-24%2B-0F6E56?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repos-3-185FA5?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Language-Python%2098%25-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-ERP%20Automation-FF6600?style=flat-square&logoColor=white"/>
 
 </div>
 
@@ -81,15 +82,17 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 ## GitHub trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nidhi-Zalavadiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
 
----
+<!-- Trophies as achievement badges -->
+<img src="https://img.shields.io/badge/🏆%20Production%20SaaS-EInvoice%20Pro%20Live-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏆%20Impact-4hrs%20→%2060sec-FFD700?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🏆%20Clients-3%2B%20Accounting%20Firms-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏆%20Zero%20Errors-After%20Automation-FFD700?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/🏆%20Internships-3%20Completed-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏆%20Projects-4%20In%20Production-FFD700?style=flat-square"/>
 
-## Contribution activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhi-Zalavadiya&theme=tokyo-night&hide_border=true&area=true&custom_title=Nidhi%27s%20Contribution%20Graph"/>
 </div>
 
 ---
@@ -97,42 +100,47 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 ## Featured projects
 
 ### [EInvoice Pro — GST e-Invoice SaaS Platform](https://github.com/Nidhi-Zalavadiya/Tally_Automation)
-> **Live · adopted by 3+ accounting firms**
+
+![Live](https://img.shields.io/badge/Status-Live-0F6E56?style=flat-square)
+![Firms](https://img.shields.io/badge/Adopted%20by-3%2B%20Firms-185FA5?style=flat-square)
+![Impact](https://img.shields.io/badge/Processing-4hrs%20→%2060sec-FF6600?style=flat-square)
 
 Decodes Government e-Invoice IRN/JWT payloads and auto-pushes structured Purchase Vouchers into Tally ERP. Built a 3-step workflow (Upload → Map → Push) with persistent supplier-item mapping in PostgreSQL — repeat invoices from the same vendor need zero re-configuration.
 
-**Stack:** FastAPI · Django · PostgreSQL · JWT · Tally ERP HTTP API  
-**Impact:** 4 hours of daily invoice processing → under 60 seconds · zero manual data-entry errors
+**Stack:** FastAPI · Django · PostgreSQL · JWT · Tally ERP HTTP API
 
 ---
 
 ### [Bank Statement → Tally XML Converter](https://github.com/Nidhi-Zalavadiya/Tally_Automation)
-> **In active daily production use**
 
-Parses formatted Excel bank statements, fetches live Tally ledgers, generates import-ready XML vouchers, and auto-creates missing ledger entries under the correct groups — all from a desktop GUI.
+![Live](https://img.shields.io/badge/Status-Production%20Daily%20Use-0F6E56?style=flat-square)
+![Impact](https://img.shields.io/badge/Reconciliation-2hrs%20→%205min-185FA5?style=flat-square)
 
-**Stack:** Python · Tkinter · OpenPyXL · XML · Tally ERP HTTP API  
-**Impact:** 2+ hours of daily reconciliation → under 5 minutes
+Parses formatted Excel bank statements, fetches live Tally ledgers, generates import-ready XML vouchers, and auto-creates missing ledger entries — all from a desktop GUI.
+
+**Stack:** Python · Tkinter · OpenPyXL · XML · Tally ERP HTTP API
 
 ---
 
 ### [Bulk Sales Voucher Generator](https://github.com/Nidhi-Zalavadiya/Final-Version-Bulk-Sales-Import-Without-Gst-Multiitems-and-Accounting-)
-> **Adopted firm-wide within the first week**
+
+![Adopted](https://img.shields.io/badge/Adopted-Firm--wide%20Week%201-FF6600?style=flat-square)
+![Impact](https://img.shields.io/badge/Saves-2hrs%2Fsession-0F6E56?style=flat-square)
 
 GUI desktop tool that batch-generates ERP-compatible sales vouchers for direct Tally import — replacing 2+ hours of repetitive manual data entry per session.
 
-**Stack:** Python · Tkinter · XML · Tally ERP  
-**Impact:** Eliminated hours of labour-intensive input per session
+**Stack:** Python · Tkinter · XML · Tally ERP
 
 ---
 
 ### [Salon Management System — Full-Stack Web App](https://github.com/Nidhi-Zalavadiya/MMG)
-> **6-module dual-portal platform**
+
+![Modules](https://img.shields.io/badge/Modules-6%20Integrated-6A0DAD?style=flat-square)
+![Bookings](https://img.shields.io/badge/Supports-100%2B%20Bookings-185FA5?style=flat-square)
 
 Dual-portal web platform (Admin + Customer) featuring appointment scheduling, product e-commerce, membership tiers, inventory control, and anonymous feedback. Owned the full stack from schema design to UI delivery.
 
-**Stack:** Django · JavaScript · AJAX · MySQL  
-**Impact:** Supports 100+ concurrent bookings · reduces manual admin tasks by 70%
+**Stack:** Django · JavaScript · AJAX · MySQL
 
 ---
 
@@ -176,14 +184,14 @@ Chimanbhai Patel Institute of Computer Applications · Gujarat University · 202
 
 <div align="center">
 
-<!-- Snake contribution animation -->
+<!-- Snake contribution animation - from own repo, always works -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhi-Zalavadiya/Nidhi-Zalavadiya/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhi-Zalavadiya/Nidhi-Zalavadiya/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/Nidhi-Zalavadiya/Nidhi-Zalavadiya/output/github-snake.svg"/>
 </picture>
 
-<br/>
+<br/><br/>
 
 *⭐ Star a repo if something here helped you!*
 
