@@ -1,12 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=120&section=header"/>
+
 <div align="center">
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Nidhi-Zalavadiya&style=flat-square&color=0F6E56&label=Profile+Views" alt="profile views"/>
-
-<br/><br/>
 
 <h1>Nidhi Zalavadiya</h1>
 <h3>Python Developer · ERP Automation · GST Compliance Tech</h3>
+
+<!-- ✅ NEW: Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F6E56&center=true&width=500&lines=Python+Developer;ERP+Automation+Expert;GST+Compliance+Engineer;Turning+4+hours+into+60+seconds!" alt="Typing SVG"/>
+</p>
+
+<br/>
 
 <p>
   I turn hours of manual accounting work into seconds of automation.<br/>
@@ -38,6 +42,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<br/>
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=Nidhi-Zalavadiya&style=flat-square&color=0F6E56&label=Profile+Views" alt="profile views"/>
 
 </div>
 
@@ -191,6 +200,11 @@ Chimanbhai Patel Institute of Computer Applications · Gujarat University · 202
 
 <div align="center">
 
+<!-- ✅ Cycling Dev Quotes Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=A78BFA&center=true&vCenter=true&repeat=true&width=780&height=45&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%94+John+Johnson;Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds;The+best+code+is+no+code+at+all.+%E2%80%94+Jeff+Atwood;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%94+Kent+Beck;They+would+have+said+faster+horses.+%E2%80%94+Henry+Ford" alt="Cycling Dev Quotes"/>
+
+<br/><br/>
+
 <!-- Snake contribution animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhi-Zalavadiya/Nidhi-Zalavadiya/output/github-snake-dark.svg"/>
@@ -203,3 +217,6 @@ Chimanbhai Patel Institute of Computer Applications · Gujarat University · 202
 *⭐ Star a repo if something here helped you!*
 
 </div>
+
+<!-- ✅ NEW: Capsule Render Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=120&section=footer"/>
