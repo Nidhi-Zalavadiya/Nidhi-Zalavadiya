@@ -64,12 +64,12 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 
 <div align="center">
 
-<!-- Streak Stats - demolab.com is GitHub CSP approved -->
+<!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=Nidhi-Zalavadiya&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Stats as shields badges - always work -->
+<!-- Stats badges -->
 <img src="https://img.shields.io/badge/Total%20Commits-24%2B-0F6E56?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Repos-3-185FA5?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Language-Python%2098%25-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -79,11 +79,18 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 
 ---
 
+## Contribution activity
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhi-Zalavadiya&theme=tokyo-night&hide_border=true&area=true&custom_title=Nidhi%27s+Contribution+Graph" alt="Contribution Graph"/>
+</div>
+
+---
+
 ## GitHub trophies
 
 <div align="center">
 
-<!-- Trophies as achievement badges -->
 <img src="https://img.shields.io/badge/🏆%20Production%20SaaS-EInvoice%20Pro%20Live-FFD700?style=flat-square"/>
 <img src="https://img.shields.io/badge/🏆%20Impact-4hrs%20→%2060sec-FFD700?style=flat-square"/>
 <br/>
@@ -184,7 +191,7 @@ Chimanbhai Patel Institute of Computer Applications · Gujarat University · 202
 
 <div align="center">
 
-<!-- Snake contribution animation - from own repo, always works -->
+<!-- Snake contribution animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidhi-Zalavadiya/Nidhi-Zalavadiya/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidhi-Zalavadiya/Nidhi-Zalavadiya/output/github-snake.svg"/>
