@@ -7,13 +7,13 @@
 
 <!-- ✅ NEW: Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F6E56&center=true&width=500&lines=Python+Developer;ERP+Automation+Expert;GST+Compliance+Engineer;Turning+4+hours+into+60+seconds!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F6E56&center=true&width=500&lines=Python+Developer;ERP+Automation+Expert;GST+Compliance+Engineer;Turning+4+hours+into+10+minutes!" alt="Typing SVG"/>
 </p>
 
 <br/>
 
 <p>
-  I turn hours of manual accounting work into seconds of automation.<br/>
+  I turn hours of manual accounting work into minutes of automation.<br/>
   I build ERP integrations, GST compliance tools, and full-stack web apps that run in production at real accounting firms.
 </p>
 
@@ -62,7 +62,7 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 
 | Metric | Result |
 |--------|--------|
-| Invoice processing time | 4 hours/day → under 60 seconds |
+| Invoice processing time | 4 hours/day → under 10 minutes |
 | Manual reconciliation eliminated | 2+ hours per week |
 | Accounting firms using my tools | 3+ |
 | Data-entry errors after automation | 0 |
@@ -100,8 +100,8 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆%20Production%20SaaS-EInvoice%20Pro%20Live-FFD700?style=flat-square"/>
-<img src="https://img.shields.io/badge/🏆%20Impact-4hrs%20→%2060sec-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏆%20Production%20Tool-EInvoice%20Pro%20Active-FFD700?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏆%20Impact-4hrs%20→%2010min-FFD700?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/🏆%20Clients-3%2B%20Accounting%20Firms-FFD700?style=flat-square"/>
 <img src="https://img.shields.io/badge/🏆%20Zero%20Errors-After%20Automation-FFD700?style=flat-square"/>
@@ -117,9 +117,9 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 
 ### [EInvoice Pro — GST e-Invoice SaaS Platform](https://github.com/Nidhi-Zalavadiya/Tally_Automation)
 
-![Live](https://img.shields.io/badge/Status-Live-0F6E56?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In%20Production%20Use-0F6E56?style=flat-square)
 ![Firms](https://img.shields.io/badge/Adopted%20by-3%2B%20Firms-185FA5?style=flat-square)
-![Impact](https://img.shields.io/badge/Processing-4hrs%20→%2060sec-FF6600?style=flat-square)
+![Impact](https://img.shields.io/badge/Processing-4hrs%20→%2010min-FF6600?style=flat-square)
 
 Decodes Government e-Invoice IRN/JWT payloads and auto-pushes structured Purchase Vouchers into Tally ERP. Built a 3-step workflow (Upload → Map → Push) with persistent supplier-item mapping in PostgreSQL — repeat invoices from the same vendor need zero re-configuration.
 
@@ -165,14 +165,14 @@ Dual-portal web platform (Admin + Customer) featuring appointment scheduling, pr
 ```python
 # Before: an accountant's morning routine
 open_government_portal()           # 15 min
-download_einvoices()               # 10 min
+manually_download_einvoices()      # 10 min
 manually_decode_irn_jwt()          # 45 min
 cross_reference_hsn_gstin()        # 60 min
 type_into_tally_one_by_one()       # 90 min
 # total: ~4 hours, error-prone
 
 # After: EInvoice Pro
-einvoice_pro.process("invoice.json")   # < 60 seconds, zero errors
+einvoice_pro.process("invoice.json")   # < 10 minutes, zero errors
 ```
 
 ---
