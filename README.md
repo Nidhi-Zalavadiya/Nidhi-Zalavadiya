@@ -63,7 +63,7 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 | Metric | Result |
 |--------|--------|
 | Invoice processing time | 4 hours/day → under 10 minutes |
-| Manual reconciliation eliminated | 2+ hours per week |
+| Manual data entry eliminated | 2+ hours per week |
 | Accounting firms using my tools | 3+ |
 | Data-entry errors after automation | 0 |
 
