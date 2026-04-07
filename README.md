@@ -184,7 +184,7 @@ einvoice_pro.process("invoice.json")   # < 10 minutes, zero errors
 |------|-------|
 | **Languages** | Python, JavaScript, SQL, HTML5, CSS3 |
 | **Backend** | FastAPI, Django, Django REST Framework, REST APIs, JWT |
-| **Frontend** | AJAX, HTML5, CSS3 |
+| **Frontend** | React, AJAX, HTML5, CSS3 |
 | **Databases** | PostgreSQL, MySQL |
 | **ERP & Gov Tech** | Tally ERP (HTTP/XML API), Government e-Invoice (IRN/JWT), GST Compliance (CGST/SGST/IGST) |
 | **Desktop / Automation** | Tkinter, Kivy, OpenPyXL, XML Processing, Excel Automation |
