@@ -124,7 +124,7 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 
 Decodes Government e-Invoice IRN/JWT payloads and auto-pushes structured Purchase Vouchers into Tally ERP. Built a 3-step workflow (Upload → Map → Push) with persistent supplier-item mapping in PostgreSQL — repeat invoices from the same vendor need zero re-configuration.
 
-**Stack:** FastAPI · Django · PostgreSQL · JWT · Tally ERP HTTP API
+**Stack:** FastAPI · Django · React · PostgreSQL · JWT · Tally ERP HTTP API 
 
 ---
 
