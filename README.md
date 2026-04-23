@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>Nidhi Zalavadiya</h1>
-<h3>Python Developer · ERP Automation · GST Compliance Tech</h3>
+<h3>Python Developer · ERP Automation · GST Compliance Tech · AI/ML in Progress </h3>
 
 <!-- ✅ NEW: Typing Animation -->
 <p align="center">
@@ -30,7 +30,14 @@
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
-
+<!-- ML Badges -->
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+</p>
 <!-- Connect Badges -->
 <p>
   <a href="https://linkedin.com/in/nidhizavalaiya">
@@ -69,7 +76,24 @@ I work at the intersection of **Python automation** and **ERP systems**. Most of
 | Data-entry errors after automation | 0 |
 
 ---
-
+## 🤖 AI / ML Journey 
+ 
+> Every model below was trained, evaluated, and visualized by code I wrote myself. Real datasets. Real results.
+ 
+| Algorithm | Dataset | What I measured |
+|-----------|---------|----------------|
+| EDA + Visualization | Iris, Student Scores | Scatter plots, distributions, groupby analysis |
+| Linear Regression | California Housing (20k+ rows) | Actual vs Predicted, feature coefficients |
+| Logistic Regression | Titanic | ~82% accuracy, confusion matrix, precision/recall |
+| Decision Tree | Titanic | Full tree visualization (max_depth=4), Gini impurity |
+| Random Forest | Titanic | Feature importance, model comparison vs 3 other algorithms |
+ 
+**Key insight I learned:** Logistic Regression outperformed Random Forest on Titanic because survival has strong linear relationships (sex, class). More complex ≠ always better.
+ 
+👉 **[See all charts, code and outputs → Python-Fundamentals](https://github.com/Nidhi-Zalavadiya/Python-Fundamentals)**
+ 
+---
+ 
 ## GitHub stats
 
 <div align="center">
@@ -160,6 +184,17 @@ Dual-portal web platform (Admin + Customer) featuring appointment scheduling, pr
 **Stack:** Django · JavaScript · AJAX · MySQL
 
 ---
+### [Python → ML Journey](https://github.com/Nidhi-Zalavadiya/Python-Fundamentals)
+ 
+![Status](https://img.shields.io/badge/Status-Active%20Daily-0F6E56?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-Linear%20|%20Logistic%20|%20DT%20|%20RF-F7931E?style=flat-square)
+![Datasets](https://img.shields.io/badge/Datasets-Titanic%20|%20Iris%20|%20Housing-185FA5?style=flat-square)
+ 
+Hands-on ML learning repo — every algorithm trained from scratch on real datasets with output charts committed. Linear Regression, Logistic Regression, Decision Tree, Random Forest — all with analysis of *why* each model performs the way it does.
+ 
+**Stack:** Python · NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn
+ 
+---
 
 ## A typical problem I solve
 
@@ -179,7 +214,7 @@ einvoice_pro.process("invoice.json")   # < 10 minutes, zero errors
 ---
 
 ## Tech stack
-
+ 
 | Area | Tools |
 |------|-------|
 | **Languages** | Python, JavaScript, SQL, HTML5, CSS3 |
@@ -188,10 +223,10 @@ einvoice_pro.process("invoice.json")   # < 10 minutes, zero errors
 | **Databases** | PostgreSQL, MySQL |
 | **ERP & Gov Tech** | Tally ERP (HTTP/XML API), Government e-Invoice (IRN/JWT), GST Compliance (CGST/SGST/IGST) |
 | **Desktop / Automation** | Tkinter, Kivy, OpenPyXL, XML Processing, Excel Automation |
+| **AI / ML** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn |
 | **Tools** | Git, Postman, VS Code |
-
+ 
 ---
-
 ## Education
 
 **Bachelor of Computer Applications (BCA)**  
